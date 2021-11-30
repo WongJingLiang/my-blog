@@ -1,0 +1,2 @@
+1. RUN npm run build FOR WEBSITE
+2. RUN npx json-servver --watch data/db.json --port 8000 FOR JSON DATABASE
